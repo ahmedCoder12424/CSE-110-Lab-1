@@ -78,7 +78,7 @@ li a:hover {
     background-color: rgb(245, 240, 230);
     display: grid;
     gap: 25px;
-    grid-template-columns: 20% 20% 20%;
+    grid-template-columns: 25% 25% 25% 25%;
   
 }
 
@@ -86,10 +86,11 @@ li a:hover {
     background-color:#182b49;
     color: white;
     max-height: 500px;
-    max-width: 200px;
+    max-width: 350px;
     overflow: scroll;
     text-align: center;
-    float: left;
+  
+    font-size: 28px;
 
 }
 
